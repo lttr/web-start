@@ -1,3 +1,3 @@
-# web start separate
+# Web starter
 
-Single file quick web starter.
+3 separate files for quick web start. HTML, CSS, JS.
