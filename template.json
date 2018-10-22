@@ -1,3 +1,5 @@
 {
-  "name": "Test"
+  "name": "web test",
+  "discard": ["template.json", "README.md", "LICENCE.md"],
+  "parse": ["index.html"]
 }
